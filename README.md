@@ -1,3 +1,5 @@
+# THIS IS NOT FINALIZED YET
+
 # one.config - one config for everything
 
 "one.config" is a simple utility to manage complex environments. You don't need to copy and paste configurations and scripts anymore: one.config can store them in one global place or in your project's root directory and then run at your command.
